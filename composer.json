@@ -1,0 +1,20 @@
+{
+    "name": "sharejia/response",
+    "description": "This is response help package for laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sharejia",
+            "email": "sharejia@outlook.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "provider": [
+                "Sharejia\\Response\\ResponseServiceProvider"
+            ]
+        }
+    }
+}
