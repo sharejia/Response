@@ -10,6 +10,11 @@
         }
     ],
     "require": {},
+    "autoload": {
+        "psr-4": {
+            "DevPackage\\Message\\": "src/"
+        }
+    },
     "extra": {
         "laravel": {
             "provider": [

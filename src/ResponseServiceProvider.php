@@ -24,6 +24,6 @@ class ResponseServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        
+
     }
 }
